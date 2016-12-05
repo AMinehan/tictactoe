@@ -1,0 +1,1 @@
+this doesn't work yet because I wasn't feeling well until just now, todo for tonight: brush up on angular so I can stop using jquery and make the game
